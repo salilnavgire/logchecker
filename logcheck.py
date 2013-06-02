@@ -46,10 +46,10 @@ for dirpath, dirnames, filenames in os.walk("C:\Users\Salil\Desktop\data"):
 				#print 'ok'
 				match1 = re.search(r'^\d+\t+\d+\t+\d+\t+\w*$', lines[w])
 				if match1:
-					#print 'waaj'
+					#print 'done'
 					pass
 				else:
-					#print "waajaa"
+					#print "done 2"
 					count1 = count1 + 1
 					#print lines[w]
 					a=(lines[w].split('	'))
@@ -57,7 +57,6 @@ for dirpath, dirnames, filenames in os.walk("C:\Users\Salil\Desktop\data"):
 
 					match1 = re.search(r'-\d+', lines[w])
 					if match1:
-						#print 'waaj'
 						count2 = count2 +1
 						#print a
 
@@ -69,14 +68,8 @@ for dirpath, dirnames, filenames in os.walk("C:\Users\Salil\Desktop\data"):
 		if count2 > 0:
 			print os.path.join(dirpath, filename)
 			print "negative ",count2,"times"
-			
-
-
-			
-			#print count1
 
 			if lines[w].find ('x\ty\tTs\t\tEvents\n') != -1:
-				#print 'man'
 				pass
 				#found++
 
