@@ -1,0 +1,97 @@
+Browser codeNameMozilla
+Browser Name: Netscape
+Browser Version: 5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A403 Safari/8536.25
+Cookies Enabled: true
+Platform: iPad
+User-agent Header: Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A403 Safari/8536.25
+
+Date/Time: 2013-04-16 10:19:22
+
+x  y	Ts		Events
+25	590	1320		touch
+37	576	1385		move
+69	541	1419		move
+113	484	1447		move
+140	446	1462		move
+170	399	1479		move
+204	343	1495		move
+242	279	1512		move
+282	215	1529		move
+319	154	1545		move
+350	98	1562		move
+375	49	1579		move
+393	11	1595		move
+403	-12	1612		move
+408	-22	1629		move
+408	-24	1645		move
+408	-21	1662		move
+401	10	1679		move
+383	53	1695		move
+359	115	1712		move
+329	193	1729		move
+300	279	1745		move
+276	365	1762		move
+265	432	1779		move
+268	479	1795		move
+286	515	1812		move
+313	533	1829		move
+350	539	1845		move
+394	537	1862		move
+443	520	1879		move
+493	492	1895		move
+538	458	1912		move
+566	424	1929		move
+#	#	#		end
+122	440	2097		touch
+138	438	2130		move
+176	438	2145		move
+228	438	2162		move
+292	436	2179		move
+362	430	2195		move
+431	418	2212		move
+#	#	#		end
+549	110	2363		touch
+541	115	2396		move
+526	147	2412		move
+508	197	2429		move
+485	268	2445		move
+460	353	2462		move
+439	438	2479		move
+421	511	2495		move
+406	569	2512		move
+391	622	2529		move
+#	#	#		end
+54	280	2780		touch
+57	273	2796		move
+74	264	2812		move
+116	249	2829		move
+174	231	2845		move
+247	209	2862		move
+333	185	2879		move
+429	161	2895		move
+531	142	2912		move
+633	127	2929		move
+725	120	2996		move
+839	142	3002		move
+802	168	3012		move
+711	205	3029		move
+590	257	3045		move
+471	316	3062		move
+379	374	3079		move
+329	414	3095		move
+315	434	3112		move
+327	440	3129		move
+383	430	3145		move
+460	403	3162		move
+543	375	3179		move
+622	352	3195		move
+680	340	3212		move
+703	340	3229		move
+694	356	3245		move
+638	386	3262		move
+574	419	3279		move
+530	446	3295		move
+516	458	3312		move
+516	463	3329		move
+553	463	3345		move
+#	#	#		end
