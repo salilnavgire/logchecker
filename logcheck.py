@@ -33,8 +33,8 @@ for dirpath, dirnames, filenames in os.walk("C:\Users\Salil\Desktop\data"):
 		#Faulty logs have 'User' instance more than once
 		#so print the path of the file and number of times the string is repeated
 		if count > 1:
-				print os.path.join(dirpath, filename)
-				print "User-agent repeated",count,"times"
+			print os.path.join(dirpath, filename)
+			print "User-agent repeated",count,"times"
 
 		#Following is a sample table entries from the log file
 		#x	y	Ts		Events
